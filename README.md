@@ -5,4 +5,4 @@ A Multi-Value Classiﬁcation pipeline. This pipeline must be able to classify t
 
 The corpus used is the Reuters corpus from NLTK.
 
-Rest all the description is given in the jupyter notebook.
+Rest all the description is given in the Multi label clasification jupyter notebook or ".py" file.
